@@ -12,13 +12,15 @@ const newnum=20000000
 console.log(newnum.toLocaleString('en-IN'));
 //++++++++++++++++++++++++++++math++++++++++++++++++++++++++++++++++
 
-console.log(Math);
-console.log(Math.abs(-4));
-console.log(Math.round(4.88));
-console.log(Math.ceil(4.2));
-console.log(Math.floor(4.88));
-
-
+// console.log(Math);
+// console.log(Math.abs(-4));
+// console.log(Math.round(4.88));
+// console.log(Math.ceil(4.2));
+// console.log(Math.floor(4.88));
+console.log(Math.random());
+console.random()
+console.log()
+ 
 
 
 
